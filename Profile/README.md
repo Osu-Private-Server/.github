@@ -1,5 +1,3 @@
-# .github
-
 <h1 align="center">Hello 👋, Welcome to our osu private server code space</h1>
 
 
